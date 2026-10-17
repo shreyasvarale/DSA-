@@ -1,0 +1,33 @@
+==================================================
+       SINGLY LINKED LIST SEARCH PROGRAM
+==================================================
+
+Enter number of nodes: 8
+
+Enter element: 10
+Enter element: 20
+Enter element: 30
+Enter element: 40
+Enter element: 50
+Enter element: 60
+Enter element: 70
+Enter element: 80
+
+--------------------------------------------------
+             SEARCH OPERATION
+--------------------------------------------------
+
+Enter element to search: 60
+
+Element found at position 6
+
+--------------------------------------------------
+             SEARCH COMPLETED
+--------------------------------------------------
+
+Linked List: 10 -> 20 -> 30 -> 40 -> 50 -> 60 -> 70 -> 80
+
+Result: The element 60 is present in the linked list.
+Position: 6
+
+==================================================
