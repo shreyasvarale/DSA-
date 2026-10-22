@@ -31,18 +31,8 @@ Step 6: Stop the program.
 
 ## Flowchaert
  
-    A([Start]) --> B[Create Backup Trees T1, T2 and T3]
-    B --> C[Compare T1 and T2]
-    C --> D{Are Trees Identical?}
-    D -- Yes --> E[Display: Trees are Identical]
-    D -- No --> F[Display: Trees are Not Identical]
-    E --> G[Check Whether T3 Is a Subtree of T1]
-    F --> G
-    G --> H{Is T3 a Subtree?}
-    H -- Yes --> I[Display: Subtree Verification Successful]
-    H -- No --> J[Display: Subtree Verification Failed]
-    I --> K([Stop])
-    J --> K
+    <img width="883" height="1600" alt="WhatsApp Image 2026-10-22 at 11 50 24 AM" src="https://github.com/user-attachments/assets/1b25a5df-5f16-4c2a-898f-a6ed0cb06f4c" />
+
 
 ## code
 
