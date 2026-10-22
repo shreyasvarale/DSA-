@@ -31,7 +31,7 @@ Step 6: Stop the program.
 
 ## Flowchaert
  
-    <img width="883" height="1600" alt="WhatsApp Image 2026-10-22 at 11 50 24 AM" src="https://github.com/user-attachments/assets/1b25a5df-5f16-4c2a-898f-a6ed0cb06f4c" />
+    <img width="883" height="1600" alt="WhatsApp Image 2026-10-22 at 11 50 24 AM" src="https://github.com/user-attachments/assets/870bff0d-66fa-4dd8-90d7-6af884b442ae" />
 
 
 ## code
