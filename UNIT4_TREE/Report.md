@@ -30,8 +30,8 @@ Step 5: Display whether the trees are identical and whether the subtree exists.
 Step 6: Stop the program.
 
 ## Flowchaert
- 
-    <img width="883" height="1600" alt="WhatsApp Image 2026-10-22 at 11 50 24 AM" src="https://github.com/user-attachments/assets/870bff0d-66fa-4dd8-90d7-6af884b442ae" />
+ <img width="887" height="1600" alt="WhatsApp Image 2026-10-22 at 11 51 09 AM" src="https://github.com/user-attachments/assets/0857e740-e8f6-4c72-bd9d-fa8966042e22" />
+
 
 
 ## code
